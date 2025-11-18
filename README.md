@@ -27,9 +27,9 @@ The final output provides a synthetic visual + numerical summary of the analysed
 
 fouling-analysis/
 │
-├── fouling_analysis.py # Main analysis script (OpenCV)
-├── rapport_stage_2A.pdf # Full internship report (French)
-└── README.md
+├── fouling_analysis.py          # Main analysis script (OpenCV)
+├── rapport_stage_2A.pdf         # Full internship report (French)
+└── README.md                    
 
 ---
 
