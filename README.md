@@ -31,7 +31,6 @@ fouling-analysis/
 ├── rapport_stage_2A.pdf # Full internship report (French)
 └── README.md
 
-
 ---
 
 ## Methods & Algorithm
