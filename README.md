@@ -80,12 +80,3 @@ The full internship report (in French) describing the context, methods, tests an
 
 `rapport_stage_gloriamaris.pdf`
 
----
-
-## Author
-
-**François Faramus**  
-AgroParisTech – Bioinformatics & Machine Learning  
-📧 francois.faramus@agroparistech.fr  
-GitHub: *your link here*
-
