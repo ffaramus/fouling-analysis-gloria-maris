@@ -78,4 +78,4 @@ These limitations and improvement paths are detailed in the report.
 
 The full internship report (in French) describing the context, methods, tests and limitations is available here:
 
-[Download the report (rapport_stage_gloriamaris.pdf)](./rapport_stage_2A.pdf)
+[Download the report (rapport_stage_gloriamaris.pdf)](./Rapport_stage_2A.pdf)
